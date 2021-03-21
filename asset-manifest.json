@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/iotx-temperature-dashboard/static/css/main.6e565769.chunk.css",
+    "main.js": "/iotx-temperature-dashboard/static/js/main.67cb8059.chunk.js",
+    "main.js.map": "/iotx-temperature-dashboard/static/js/main.67cb8059.chunk.js.map",
+    "runtime-main.js": "/iotx-temperature-dashboard/static/js/runtime-main.916706bb.js",
+    "runtime-main.js.map": "/iotx-temperature-dashboard/static/js/runtime-main.916706bb.js.map",
+    "static/js/2.fad44210.chunk.js": "/iotx-temperature-dashboard/static/js/2.fad44210.chunk.js",
+    "static/js/2.fad44210.chunk.js.map": "/iotx-temperature-dashboard/static/js/2.fad44210.chunk.js.map",
+    "index.html": "/iotx-temperature-dashboard/index.html",
+    "static/css/main.6e565769.chunk.css.map": "/iotx-temperature-dashboard/static/css/main.6e565769.chunk.css.map",
+    "static/js/2.fad44210.chunk.js.LICENSE.txt": "/iotx-temperature-dashboard/static/js/2.fad44210.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.916706bb.js",
+    "static/js/2.fad44210.chunk.js",
+    "static/css/main.6e565769.chunk.css",
+    "static/js/main.67cb8059.chunk.js"
+  ]
+}
